@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category_name": "Clothes"
+        },
+        {
+            "id": 2,
+            "category_name": "Electronics"
+        },
+        {
+            "id": 3,
+            "category_name": "Sports"
+        },
+        {
+            "id": 4,
+            "category_name": "Shoes"
+        },
+        {
+            "id": 5,
+            "category_name": "Home Aplliances"
+        },
+        {
+            "id": 6,
+            "category_name": "Cosmetics"
+        },
+        {
+            "id": 7,
+            "category_name": "Home Decor"
+        }
+    ]
+}
